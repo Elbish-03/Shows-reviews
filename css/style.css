@@ -179,6 +179,7 @@ font-family: 'Poppins', sans-serif;
   
   .showcase {
     background: var(--primary-color);
+background-image: url(/images/mainpage.png);
     color: #fff;
     height: 100vh;
     position: relative;
