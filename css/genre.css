@@ -6,7 +6,7 @@
     .header{
         min-height: 100vh;
         width: 100%;
-        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(/images/168480-prison-break-sequel-season-5-original.jpg);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(images/168480-prison-break-sequel-season-5-original.jpg);
         background-position: center;
         background-size: cover;
         position: relative;
@@ -86,7 +86,7 @@
 .genre-1{
     min-height: 80vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(/images/thriller-pic.webp) ;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(images/thriller-pic.webp) ;
     background-position: center;
     background-size: cover;
     position: relative;
@@ -100,7 +100,7 @@
 .genre-2{
     min-height: 80vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(/images/horror-pic.webp);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(images/horror-pic.webp);
     background-position: center;
     background-size: cover;
     position: relative;        
@@ -113,7 +113,7 @@
 .genre-3{
     min-height: 80vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(/images/comedy-pic.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(images/comedy-pic.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -126,7 +126,7 @@
 .genre-4{
     min-height: 80vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(/images/drama-pic.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(images/drama-pic.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
